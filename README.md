@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :smiley: I'm a PhD student at The University of Tokyo.
+- 🔭 I'm working on HCI and CV. In particular, I am studying Interactive Machine Teaching, Low-level CV and Dataset Distillation.
+- :email: email: zhongyi [at] iis-lab.org
+- :computer: personal website: https://zhongyizhou.net/
+- :hand: Be free to contact me for dicussions or collaborations!
+
