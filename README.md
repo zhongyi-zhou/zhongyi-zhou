@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :smiley: I'm a PhD student at The University of Tokyo.
-- 🔭 I'm working on HCI and CV. In particular, I am studying Interactive Machine Teaching, Low-level CV and Dataset Distillation.
-- :email: email: zhongyi [at] iis-lab.org
+- :smiley: I'm a postdoc at RIKEN
+- 🔭 I study both HCI and CV, focusing on how these two disciplines can jointly contribute to future interactive systems
+- :email: email: zhongyi.zhou.work [at] gmail.com
 - :computer: personal website: https://zhongyizhou.net/
 - :hand: Be free to contact me for dicussions or collaborations!
 
