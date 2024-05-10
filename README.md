@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :smiley: I'm a postdoc at RIKEN
+- :smiley: I'm a postdoc at RIKEN and a visiting researcher at Google.
 - 🔭 I study both HCI and CV, focusing on how these two disciplines can jointly contribute to future interactive systems
 - :email: email: zhongyi.zhou.work [at] gmail.com
 - :computer: personal website: https://zhongyizhou.net/
