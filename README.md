@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :smiley: I'm a postdoc at UTokyo and a visiting researcher at Google & RIKEN.
-- 🔭 I conduct HCI research with intersection of CV and LLMs.
+- :smiley: I'm a research scientist at Google, developing the core tech behind [AndroidXR](https://www.android.com/xr/).
+- 🔭 I do HCI research. I like CV/CG and LLMs!
 - :email: email: zhongyi.zhou.work [at] gmail.com
-- :computer: personal website: https://zhongyizhou.net/
-- :hand: Be free to contact me for dicussions or collaborations!
+- 🌐 personal website: https://zhongyizhou.net/
+- :hand: Feel free to contact me for dicussions or collaborations!
 
